@@ -14,9 +14,9 @@ owner:
   bio:            IT Professional 
   email:          bill.driver@gmail.com
   # Social networking links used in footer. Update and remove as you like.
-  twitter: https://twitter.com/billdriver       
-  github: https://github.com/billdriver          
-  linkedin: https://www.linkedin.com/profile/view?id=26223390               
+  twitter: billdriver       
+  github: billdriver          
+  linkedin: driverbill  
   
 
 # Background image to be tiled on all pages
