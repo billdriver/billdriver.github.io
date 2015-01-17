@@ -2,6 +2,7 @@
 layout: post
 title:  "Goals"
 date:   2015-01-16 7:30:06
+comments: false
 categories: general
 ---
 As any professional looking to maintain an edge, one must set goals for themselves. With 2015 just 16 days old, I have had a good opportunity to determine where I want to take myself professionally. 

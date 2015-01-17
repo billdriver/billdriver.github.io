@@ -2,6 +2,7 @@
 layout: post
 title:  "Trying This Again"
 date:   2015-01-12 6:21:06
+comments: false
 categories: introduction
 ---
 I've tried over the years to actively blog about my career as an IT professional. I'm always pumped up for a few weeks to get the blog rolling with a lot of ideas, but ultimately I forget it after a few weeks. 
