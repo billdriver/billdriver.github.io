@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Goals"
+date:   2015-01-16 7:30:06
+categories: goals, general
+---
+As any professional looking to maintain an edge, one must set goals for themselves. With 2015 just 16 days old, I have had a good opportunity to determine where I want to take myself professionally. 
+
+First, I took 2014 off from certifications as I spent just about the entire year of 2013 upgrading my MCSA 2003 to MCSA 2008 then to MCSA 2012. On top of that, I obtained my VCP 4 in 2013 as well. 2015 is here and I'm going to hit the books again. I received notice that my VCP4 is expiring, so I do plan to recertify in VMWare in some shape or form. I also plan to jump in the fire with Cisco; right now I'm re-upping my CCNA RS and plan to pursue CCNA DC and/or CCDA. I've also had thoughts on rolling up to CCNP RS. My main focus right now is CCNA RS. 
+
+Second, my goal is to become extremely proficient in Powershell. It seems to be the premier language being used by Windows admins every where. While I have dabbled in Powershell in the past, I have never completely made it a part of my every day professional life. The tools are out there, I must take the time to learn. 
+
+Lastly, I'm going to find a hobby. I'm unsure of what the hobby will be, but I'm looking for something to take me out of the house a few days a week that can get my mind off my professional life for 30-60 minutes each time, mainly looking to prevent any potential burnout that may occur in my professional life. Since I have been 24 years old, my life has been work, home, then more work, and then bed; rinse and repeat. I've been leaning towards hiking or running; maybe a combination of both. 
+
+There it is, my 2015 professional goals. Hopefully, I'll be writing another blog in December talking about how I achieved all of my goals. 
