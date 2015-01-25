@@ -5,7 +5,7 @@ date:   2015-01-25 10:37:06
 comments: false
 categories: general
 ---
-Here we are, it's Sunday morning and I'm starting to prepare for the work week; I'm calculating time sheets for my staff and getting ready to load a software upgrade into the test environment. I often find myself doing this as a way to get ahead before the rush of the work week. I make it a purpose of mine to stay ahead, never fall behind; even if that means giving up a few hour of my weekend to answer emails, install a patch, or work a few trouble tickets. I don't think there is anything better than starting Monday with a clean slate. 
+Here we are, it's Sunday morning and I'm starting to prepare for the work week; I'm calculating time sheets for my staff and getting ready to load a software upgrade into the test environment. I often find myself doing this as a way to get ahead before the rush of the work week. I make it a purpose of mine to stay ahead, never fall behind; even if that means giving up a few hours of my weekend to answer emails, install a patch, or work a few trouble tickets. I don't think there is anything better than starting Monday with a clean slate. 
 
 There is several reasons I push myself to stay ahead.  First, when something goes wrong and consumes my time; I don't want my other responsibilities and projects to suffer because I'm behind due to an unplanned downtime or major issue. It's the inevitable in IT, something is going to hit the fan and consume your day, your week. It happens to every one in their career. Staying ahead in other daily responsibilities and projects, makes the impact of a major event more tolerable and less stressful knowing you will have very little to catch up on after the major event passes. 
 
